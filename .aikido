@@ -2,9 +2,6 @@ ignore:
   cves:
     'CVE-2023-261377':
       reason: tough cookie issue
-    'CVE-2022-249977':
-      reason: qs issue
 exclude:
   paths:
     - packages/app/package-lock.json
-    - package-lock.json
