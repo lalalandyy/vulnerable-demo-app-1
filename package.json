@@ -28,7 +28,6 @@
     "jwt-decode": "2.2.0",
     "lodash.merge": "4.6.2",
     "lodash.throttle": "4.1.1",
-    "node-sass": "4.14.1",
     "open-graph": "0.2.4",
     "ramda": "0.25.0",
     "request": "2.85.0",
@@ -42,7 +41,6 @@
     "vuex": "3.0.1"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "5.7.2",
     "@vue/test-utils": "1.0.0-beta.29",
     "babel-eslint": "8.2.3",
     "babel-jest": "24.7.1",
@@ -57,7 +55,6 @@
     "nodemon": "1.17.4",
     "poi": "10.1.6",
     "request-debug": "0.2.0",
-    "sass-loader": "7.0.1",
     "vue-jest": "3.0.4"
   }
 }
