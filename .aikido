@@ -7,4 +7,3 @@ exclude:
     - packages/app/package-lock.json
     - package-lock.json
 
-AUTH_APP_SECRET=8743biobhik567623bbfi89dEFRTH
