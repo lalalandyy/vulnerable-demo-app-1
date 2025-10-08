@@ -1,0 +1,8 @@
+ignore:
+  cves:
+    'CVE-2021-44906':
+      reason: tough cookie issue
+exclude:
+  paths:
+    - packages/app/package-lock.json
+    - package-lock.json
